@@ -41,8 +41,8 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-MohamedBashir2093.git
-cd week-3-react-js-assignment-MohamedBashir2093
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Ephratham1.git
+cd week-3-react-js-assignment-Ephratham1
 ````
 
 ### 2. Install Dependencies
@@ -72,8 +72,7 @@ Go to:
 
 ## 🌍 Live Demo
 
-✅ [Deployed Link (Vercel)](https://week-3-react-js-a-git-fac244-arafatbashir093-gmailcoms-projects.vercel.app/)
-
+✅ [Deployed Link (Vercel)](https://task-manager-tau-lemon.vercel.app/)
 
 ---
 
@@ -83,19 +82,19 @@ Go to:
 
 > Introduction, theme toggle, and navigation
 
-![Home Screenshot](./src/Screenshots/Screenshot%202025-07-11%20154553.png)
+![Home Screenshot](./src/Screenshots/Screenshot%2025-07-15%073547.png)
 
 ### ✅ Tasks Page
 
 > Add, delete, complete, and filter tasks — saved to local storage
 
-![Tasks Screenshot](./src/Screenshots/Screenshot%202025-07-11%20154647.png)
+![Tasks Screenshot](./src/Screenshots/Screenshot%2025-07-15%073617.png)
 
 ### 📬 Posts Page
 
 > Data from API with search, loading state, and pagination
 
-![Posts Screenshot](./src/Screenshots/Screenshot%202025-07-11%20154714.png)
+![Posts Screenshot](./src/Screenshots/Screenshot%2025-07-15%073631.png)
 
 
 
@@ -114,7 +113,7 @@ Go to:
 
 ## 👨‍💻 Author
 
-**Hamud Mohamed Bashir**
+**Sipho Xolani Simango**
 
 ---
 
